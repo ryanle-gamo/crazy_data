@@ -1,0 +1,78 @@
+{
+	"categories":[
+		{
+			"id":"1",
+			"name":"Category 1",
+			"thumbnail":"http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg",
+			"animes":[
+				{
+				"id":"11",
+				"name":"Anime 11",
+				"thumbnail":"http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg",
+				"step":10
+				},
+				{
+					"id":"12",
+					"name":"Anime 12",
+					"thumbnail":"http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg",
+					"step":10
+				},
+				{
+					"id":"13",
+					"name":"Anime 13",
+					"thumbnail":"http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg",
+					"step":10
+				},
+				{
+					"id":"14",
+					"name":"Anime 14",
+					"thumbnail":"http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg",
+					"step":10
+				},
+				{
+					"id":"15",
+					"name":"Anime 15",
+					"thumbnail":"http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg",
+					"step":10
+				}
+			]
+		},
+		{
+			"id":"2",
+			"name":"Category 2",
+			"thumbnail":"http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg",
+			"animes":[
+				{
+				"id":"21",
+				"name":"Anime 21",
+				"thumbnail":"http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg",
+				"step":10
+				},
+				{
+					"id":"22",
+					"name":"Anime 22",
+					"thumbnail":"http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg",
+					"step":10
+				},
+				{
+					"id":"23",
+					"name":"Anime 23",
+					"thumbnail":"http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg",
+					"step":10
+				},
+				{
+					"id":"24",
+					"name":"Anime 24",
+					"thumbnail":"http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg",
+					"step":10
+				},
+				{
+					"id":"25",
+					"name":"Anime 25",
+					"thumbnail":"http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg",
+					"step":10
+				}
+			]
+		}
+	]
+}
