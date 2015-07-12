@@ -1,0 +1,64 @@
+<categories>
+	<category id="1">
+		<name>Category 1</name>
+		<thumbnail>http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg</thumbnail>
+		<animes>
+			<anime id="11">
+				<name>Anime 11</name>
+				<thumbnail>http://125.235.29.5:8888/media01/4e1cfbbd90db3/2014/11/09/2683a7b346330dc67ff8d95e309f7e9573ed5e6f.jpg</thumbnail>
+				<step>10</step>
+			</anime>
+			<anime id="12">
+				<name>Anime 12</name>
+				<thumbnail>http://125.235.29.5:8888/media01/4e1cfbbd90db3/2014/11/09/2683a7b346330dc67ff8d95e309f7e9573ed5e6f.jpg</thumbnail>
+				<step>20</step>
+			</anime>
+			<anime id="13">
+				<name>Anime 13</name>
+				<thumbnail>http://125.235.29.5:8888/media01/4e1cfbbd90db3/2014/11/09/2683a7b346330dc67ff8d95e309f7e9573ed5e6f.jpg</thumbnail>
+				<step>30</step>
+			</anime>
+			<anime id="14">
+				<name>Anime 14</name>
+				<thumbnail>http://125.235.29.5:8888/media01/4e1cfbbd90db3/2014/11/09/2683a7b346330dc67ff8d95e309f7e9573ed5e6f.jpg</thumbnail>
+				<step>40</step>
+			</anime>
+			<anime id="15">
+				<name>Anime 15</name>
+				<thumbnail>http://125.235.29.5:8888/media01/4e1cfbbd90db3/2014/11/09/2683a7b346330dc67ff8d95e309f7e9573ed5e6f.jpg</thumbnail>
+				<step>50</step>
+			</anime>
+		</animes>
+	</category>
+	<category id="2">
+		<name>Category 2</name>
+		<thumbnail>http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg</thumbnail>
+		<animes>
+			<anime id="21">
+				<name>Anime 21</name>
+				<thumbnail>http://125.235.29.5:8888/media01/4e1cfbbd90db3/2014/11/09/2683a7b346330dc67ff8d95e309f7e9573ed5e6f.jpg</thumbnail>
+				<step>10</step>
+			</anime>
+			<anime id="22">
+				<name>Anime 22</name>
+				<thumbnail>http://125.235.29.5:8888/media01/4e1cfbbd90db3/2014/11/09/2683a7b346330dc67ff8d95e309f7e9573ed5e6f.jpg</thumbnail>
+				<step>20</step>
+			</anime>
+			<anime id="23">
+				<name>Anime 23</name>
+				<thumbnail>http://125.235.29.5:8888/media01/4e1cfbbd90db3/2014/11/09/2683a7b346330dc67ff8d95e309f7e9573ed5e6f.jpg</thumbnail>
+				<step>30</step>
+			</anime>
+			<anime id="24">
+				<name>Anime 24</name>
+				<thumbnail>http://125.235.29.5:8888/media01/4e1cfbbd90db3/2014/11/09/2683a7b346330dc67ff8d95e309f7e9573ed5e6f.jpg</thumbnail>
+				<step>40</step>
+			</anime>
+			<anime id="25">
+				<name>Anime 25</name>
+				<thumbnail>http://125.235.29.5:8888/media01/4e1cfbbd90db3/2014/11/09/2683a7b346330dc67ff8d95e309f7e9573ed5e6f.jpg</thumbnail>
+				<step>50</step>
+			</anime>
+		</animes>
+	</category>
+</categories>
