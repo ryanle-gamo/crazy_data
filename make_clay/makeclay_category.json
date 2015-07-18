@@ -3,37 +3,19 @@
 		{
 			"category_id":"1",
 			"category_name":"Dinosaurs",
-			"category_thumbnail":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/make_clay/1.png",
+			"category_thumbnail":"1.png",
 			"animes":[
 				{
 					"anime_id":"1",
 					"anime_name":"Parasaurolophus",
-					"anime_thumbnail":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/make_clay/1_1_0.png",
+					"anime_thumbnail":"1_1_0.png",
 					"anime_step":11
 				},
 				{
 					"anime_id":"2",
 					"anime_name":"Triceratops",
-					"anime_thumbnail":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/make_clay/1_2_0.png",
+					"anime_thumbnail":"1_2_0.png",
 					"anime_step":22
-				},
-				{
-					"anime_id":"13",
-					"anime_name":"Anime 13",
-					"anime_thumbnail":"http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg",
-					"anime_step":10
-				},
-				{
-					"anime_id":"14",
-					"anime_name":"Anime 14",
-					"anime_thumbnail":"http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg",
-					"anime_step":10
-				},
-				{
-					"anime_id":"15",
-					"anime_name":"Anime 15",
-					"anime_thumbnail":"http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg",
-					"anime_step":10
 				}
 			]
 		},
