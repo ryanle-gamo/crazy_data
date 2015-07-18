@@ -3,12 +3,12 @@
 		{
 			"category_id":"1",
 			"category_name":"Dinosaurs",
-			"category_thumbnail":"http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg",
+			"category_thumbnail":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/make_clay/1.png",
 			"animes":[
 				{
 					"anime_id":"11",
 					"anime_name":"Anime 11",
-					"anime_thumbnail":"http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg",
+					"anime_thumbnail":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/make_clay/1_1_0.png",
 					"anime_step":10
 				},
 				{
