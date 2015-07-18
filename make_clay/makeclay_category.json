@@ -35,6 +35,24 @@
                       "anime_thumbnail":"1_5_0.png",
                       "anime_step":13
                       }
+                      {
+                      "anime_id":"6",
+                      "anime_name":"Argentinosaurus",
+                      "anime_thumbnail":"1_6_0.png",
+                      "anime_step":13
+                      },
+                      {
+                      "anime_id":"7",
+                      "anime_name":"Nodosaurus",
+                      "anime_thumbnail":"1_7_0.png",
+                      "anime_step":8
+                      },
+                      {
+                      "anime_id":"8",
+                      "anime_name":"Troodon",
+                      "anime_thumbnail":"1_8_0.png",
+                      "anime_step":18
+                      }
                       
 			]
 		},
