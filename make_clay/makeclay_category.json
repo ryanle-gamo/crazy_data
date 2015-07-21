@@ -4,7 +4,7 @@
 			"category_id":"1",
 			"category_name":"Dinosaurs",
 			"category_thumbnail":"1.png",
-            "is_video":"NO",
+            "is_video":"false",
 			"animes":[
 				{
 					"anime_id":"1",
@@ -175,7 +175,7 @@
 			"category_id":"2",
 			"category_name":"Stop Motion Polymer Clay Tutorials",
 			"category_thumbnail":"aj33j7xfdr0",
-            "is_video":"YES",
+            "is_video":"true",
 			"animes":[
 				{
 					"anime_id":"aj33j7xfdr0",
