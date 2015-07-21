@@ -290,6 +290,70 @@
                       "anime_step":0
                       }
 			]
-		}
+		},
+                  {
+                  "category_id":"3",
+                  "category_name":"Nerdy Things",
+                  "category_thumbnail":"aj33j7xfdr0",
+                  "is_video":"true",
+                  "animes":[
+                            {
+                            "anime_id":"atpgI3A-fbA",
+                            "anime_name":"Dalek Miniature Doctor Who Polymer Clay Charm ",
+                            "anime_thumbnail":"atpgI3A-fbA",
+                            "anime_duration":"1:45",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"ttGGgVME1ts",
+                            "anime_name":"Piece of the TARDIS Polymer Clay Charm",
+                            "anime_thumbnail":"ttGGgVME1ts",
+                            "anime_duration":"1:21",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"YWCvSCVQfNA",
+                            "anime_name":"River Song's TARDIS Journal Doctor Who",
+                            "anime_thumbnail":"YWCvSCVQfNA",
+                            "anime_duration":"1:24",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"0443RAPzP0o",
+                            "anime_name":"Anatomical Human Heart Polymer Clay Magnet ",
+                            "anime_thumbnail":"0443RAPzP0o",
+                            "anime_duration":"3:27",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"90Hasi1Z2_o",
+                            "anime_name":"William Shakespeare Polymer Clay Charm Tutorial",
+                            "anime_thumbnail":"90Hasi1Z2_o",
+                            "anime_duration":"3:17",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"xhtB8FW1b9k",
+                            "anime_name":"Doctor Who TARDIS Polymer Clay Charm Tutorial",
+                            "anime_thumbnail":"xhtB8FW1b9k",
+                            "anime_duration":"4:56",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"rg4lqeEdLXk",
+                            "anime_name":"Anglerfish [Hanklerfish] Polymer Clay Charm Tutorial ",
+                            "anime_thumbnail":"rg4lqeEdLXk",
+                            "anime_duration":"1:58",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"cSPSnbp5IOs",
+                            "anime_name":"Fish Fingers and Custard Bowl Polymer Clay Charm Necklace Tutorial",
+                            "anime_thumbnail":"cSPSnbp5IOs",
+                            "anime_duration":"3:44",
+                            "anime_step":0
+                            }
+                            ]
+                  }
 	]
 }
