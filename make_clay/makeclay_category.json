@@ -4,6 +4,7 @@
 			"category_id":"1",
 			"category_name":"Dinosaurs",
 			"category_thumbnail":"1.png",
+            "is_video":"NO",
 			"animes":[
 				{
 					"anime_id":"1",
@@ -172,39 +173,106 @@
 		},
 		{
 			"category_id":"2",
-			"category_name":"Category 2",
-			"category_thumbnail":"http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg",
+			"category_name":"Stop Motion Polymer Clay Tutorials",
+			"category_thumbnail":"aj33j7xfdr0",
+            "is_video":"YES",
 			"animes":[
 				{
-					"anime_id":"21",
-					"anime_name":"Anime 21",
-					"anime_thumbnail":"http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg",
-					"anime_step":10
+					"anime_id":"aj33j7xfdr0",
+					"anime_name":"Popsicle Thumbtacks Summer Polymer Clay Tutorial",
+					"anime_thumbnail":"aj33j7xfdr0",
+					"anime_step":0
 				},
 				{
-					"anime_id":"22",
-					"anime_name":"Anime 22",
-					"anime_thumbnail":"http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg",
-					"anime_step":10
+					"anime_id":"mHEkuxS3l4U",
+					"anime_name":"Cookie Monster Polymer Clay Earrings",
+					"anime_thumbnail":"mHEkuxS3l4U",
+					"anime_step":0
 				},
 				{
-					"anime_id":"23",
-					"anime_name":"Anime 23",
-					"anime_thumbnail":"http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg",
-					"anime_step":10
+					"anime_id":"yeBDiQp1a8o",
+					"anime_name":"Halloween DIY: Broken Teddy Bear Dangling Polymer Clay Miniature Charm",
+					"anime_thumbnail":"yeBDiQp1a8o",
+					"anime_step":0
 				},
 				{
-					"anime_id":"24",
-					"anime_name":"Anime 24",
-					"anime_thumbnail":"http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg",
-					"anime_step":10
+					"anime_id":"5kIqofINX20",
+					"anime_name":"Minnie Mouse Disney Polymer Clay Miniature Charm Tutorial",
+					"anime_thumbnail":"5kIqofINX20",
+					"anime_step":0
 				},
 				{
-					"anime_id":"25",
-					"anime_name":"Anime 25",
-					"anime_thumbnail":"http://img.v3.news.zdn.vn/Uploaded/erlx/2014_03_18/ancoong4.jpg",
-					"anime_step":10
-				}
+					"anime_id":"atpgI3A-fbA",
+					"anime_name":"Dalek Miniature Doctor Who Polymer Clay Charm",
+					"anime_thumbnail":"atpgI3A-fbA",
+					"anime_step":0
+				},
+                      {
+                      "anime_id":"3iDOJFM7pQo",
+                      "anime_name":"Mouton the Elephant Themed Polymer Clay Pen",
+                      "anime_thumbnail":"3iDOJFM7pQo",
+                      "anime_step":0
+                      },
+                      {
+                      "anime_id":"FSRX-hupvJ8",
+                      "anime_name":"Cute Piano Ring",
+                      "anime_thumbnail":"FSRX-hupvJ8",
+                      "anime_step":0
+                      },
+                      {
+                      "anime_id":"ttGGgVME1ts",
+                      "anime_name":"Piece of the TARDIS Polymer Clay Charm",
+                      "anime_thumbnail":"ttGGgVME1ts",
+                      "anime_step":0
+                      },
+                      {
+                      "anime_id":"nPsSkqVsENk",
+                      "anime_name":"Dorothy's Ruby Red Slippers",
+                      "anime_thumbnail":"nPsSkqVsENk",
+                      "anime_step":0
+                      },
+                      {
+                      "anime_id":"qf9JWw6PFJ4",
+                      "anime_name":"Goldilocks Polymer Clay Tutorial",
+                      "anime_thumbnail":"qf9JWw6PFJ4",
+                      "anime_step":0
+                      },
+                      {
+                      "anime_id":"plAyD_TWP28",
+                      "anime_name":"Bookworm & Apple",
+                      "anime_thumbnail":"plAyD_TWP28",
+                      "anime_step":0
+                      },
+                      {
+                      "anime_id":"YWCvSCVQfNA",
+                      "anime_name":"River Song's TARDIS Journal Doctor Who",
+                      "anime_thumbnail":"YWCvSCVQfNA",
+                      "anime_step":0
+                      },
+                      {
+                      "anime_id":"Vpqnf1EyHvc",
+                      "anime_name":"Butterfly Fairy Necklace",
+                      "anime_thumbnail":"Vpqnf1EyHvc",
+                      "anime_step":0
+                      },
+                      {
+                      "anime_id":"HxWkmD0aVLk",
+                      "anime_name":"Teddy Bear",
+                      "anime_thumbnail":"HxWkmD0aVLk",
+                      "anime_step":0
+                      },
+                      {
+                      "anime_id":"3N-kFNw7dPA",
+                      "anime_name":"Hot Air Balloon Necklace",
+                      "anime_thumbnail":"3N-kFNw7dPA",
+                      "anime_step":0
+                      },
+                      {
+                      "anime_id":"olbZ6B3O1CQ",
+                      "anime_name":"Strawberry Kitty Cupcake Polymer Clay Charm Tutorial",
+                      "anime_thumbnail":"olbZ6B3O1CQ",
+                      "anime_step":0
+                      }
 			]
 		}
 	]
