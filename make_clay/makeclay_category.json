@@ -182,6 +182,24 @@
                             "anime_name":"Bear",
                             "anime_thumbnail":"2_1_0.png",
                             "anime_step":20
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Cow",
+                            "anime_thumbnail":"2_2_0.png",
+                            "anime_step":22
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Dog",
+                            "anime_thumbnail":"2_3_0.png",
+                            "anime_step":22
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Giraffe",
+                            "anime_thumbnail":"2_4_0.png",
+                            "anime_step":25
                             }
                             ]
                   },
