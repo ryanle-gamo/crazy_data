@@ -171,8 +171,22 @@
                       
 			]
 		},
+                  {
+                  "category_id":"2",
+                  "category_name":"Wild Animal",
+                  "category_thumbnail":"2.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Bear",
+                            "anime_thumbnail":"2_1_0",
+                            "anime_step":20
+                            }
+                            ]
+                  },
 		{
-			"category_id":"2",
+			"category_id":"3",
 			"category_name":"Stop Motion Polymer Clay Tutorials",
 			"category_thumbnail":"aj33j7xfdr0",
             "is_video":"true",
@@ -292,7 +306,7 @@
 			]
 		},
                   {
-                  "category_id":"3",
+                  "category_id":"4",
                   "category_name":"Nerdy Things",
                   "category_thumbnail":"atpgI3A-fbA",
                   "is_video":"true",
