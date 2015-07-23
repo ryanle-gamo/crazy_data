@@ -169,6 +169,86 @@
                             "anime_id":"4",
                             "anime_name":"Giraffe",
                             "anime_step":25
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Baby Lion",
+                            "anime_step":22
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Elephant",
+                            "anime_step":22
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Fenech",
+                            "anime_step":25
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Fox",
+                            "anime_step":23
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Gorilla",
+                            "anime_step":21
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Hippo",
+                            "anime_step":32
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Horse",
+                            "anime_step":25
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Jaguar",
+                            "anime_step":23
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Lion",
+                            "anime_step":23
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Monkey",
+                            "anime_step":26
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Orangutang",
+                            "anime_step":27
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Panda",
+                            "anime_step":33
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Rhino",
+                            "anime_step":27
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Sheep",
+                            "anime_step":20
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Tiger",
+                            "anime_step":20
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Zebra",
+                            "anime_step":25
                             }
                             ]
                   },
