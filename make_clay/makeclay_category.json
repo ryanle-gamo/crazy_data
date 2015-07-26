@@ -355,8 +355,89 @@
                             }
                             ]
                   },
+                  {
+                  "category_id":"4",
+                  "category_name":"Angry Bird",
+                  "category_thumbnail":"4.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Big Yelow Bird",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Blue Funny Calibri",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Brown Bird",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Green Round Brid",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Mighty Egle",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Red Bird",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"White Parrot",
+                            "anime_step":0
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"5",
+                  "category_name":"Cartoon",
+                  "category_thumbnail":"5.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Carlson",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Cheburashka",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Extraterrestrial",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Mr Potato",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Nemo Fish",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Three-Headed Dragon",
+                            "anime_step":0
+                            }
+                            ]
+                  },
 		{
-			"category_id":"4",
+			"category_id":"6",
 			"category_name":"Stop Motion Polymer Clay Tutorials",
 			"category_thumbnail":"aj33j7xfdr0",
             "is_video":"true",
@@ -460,7 +541,7 @@
 			]
 		},
                   {
-                  "category_id":"5",
+                  "category_id":"7",
                   "category_name":"Nerdy Things",
                   "category_thumbnail":"atpgI3A-fbA",
                   "is_video":"true",
