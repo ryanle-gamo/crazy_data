@@ -146,7 +146,7 @@
 		},
                   {
                   "category_id":"2",
-                  "category_name":"Wild Animal",
+                  "category_name":"Animal 1",
                   "category_thumbnail":"2.png",
                   "is_video":"false",
                   "animes":[
@@ -252,8 +252,192 @@
                             }
                             ]
                   },
+                  {
+                  "category_id":"3",
+                  "category_name":"Animal 2",
+                  "category_thumbnail":"3.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Basset Hound",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Boa",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"CaterPillar",
+                            "anime_step":28
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Cheerful Hare",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Cock-A-Doodle-Doo",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Elk Losyash",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Frog",
+                            "anime_step":19
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Funny Bee",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Green Cockerel",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Green Hen",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Little Penguin",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Merry Mole",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Piggy Ksenia",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Purple Bear",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Red Wolf",
+                            "anime_step":21
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Snail",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Tabby Cat",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Totoro",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Turtle Tortila",
+                            "anime_step":21
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"4",
+                  "category_name":"Funny Bird",
+                  "category_thumbnail":"4.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Big Yelow Bird",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Blue Funny Calibri",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Brown Bird",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Green Round Brid",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Mighty Egle",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Red Bird",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"White Parrot",
+                            "anime_step":16
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"5",
+                  "category_name":"Cartoon",
+                  "category_thumbnail":"5.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Carlson",
+                            "anime_step":34
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Cheburashka",
+                            "anime_step":23
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Extraterrestrial",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Mr Potato",
+                            "anime_step":26
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Nemo Fish",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Three-Headed Dragon",
+                            "anime_step":24
+                            }
+                            ]
+                  },
 		{
-			"category_id":"3",
+			"category_id":"6",
 			"category_name":"Stop Motion Polymer Clay Tutorials",
 			"category_thumbnail":"aj33j7xfdr0",
             "is_video":"true",
@@ -357,7 +541,7 @@
 			]
 		},
                   {
-                  "category_id":"4",
+                  "category_id":"7",
                   "category_name":"Nerdy Things",
                   "category_thumbnail":"atpgI3A-fbA",
                   "is_video":"true",
