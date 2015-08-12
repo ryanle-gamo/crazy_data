@@ -433,11 +433,74 @@
                             "anime_id":"6",
                             "anime_name":"Three-Headed Dragon",
                             "anime_step":24
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Donkey Eeyore",
+                            "anime_step":26
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"King Kong",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Piglet Pyatachok",
+                            "anime_step":0
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"6",
+                  "category_name":"Princess",
+                  "category_thumbnail":"6.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Chinese Princess",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Elsa",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Funny King",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Goldilocks",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Kings of the troll",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Mira",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Snow White",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Wicked Queen",
+                            "anime_step":0
                             }
                             ]
                   },
 		{
-			"category_id":"6",
+			"category_id":"7",
 			"category_name":"Stop Motion Polymer Clay Tutorials",
 			"category_thumbnail":"aj33j7xfdr0",
             "is_video":"true",
@@ -541,7 +604,7 @@
 			]
 		},
                   {
-                  "category_id":"7",
+                  "category_id":"8",
                   "category_name":"Nerdy Things",
                   "category_thumbnail":"atpgI3A-fbA",
                   "is_video":"true",
