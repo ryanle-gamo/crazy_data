@@ -2,7 +2,7 @@
 	"categories":[
 		{
 			"category_id":"1",
-			"category_name":"Dinosaurs",
+			"category_name":"Dinosaurs HD",
 			"category_thumbnail":"1.png",
             "is_video":"false",
 			"animes":[
@@ -145,6 +145,54 @@
 			]
 		},
                   {
+                  "category_id":"91",
+                  "category_name":"Dinosaurs",
+                  "category_thumbnail":"91.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Brachiosaurus",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Dimetrodon",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Pterodactyl",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Stegosaurus",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Triceratops",
+                            "anime_step":18
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Tyrannosaurus",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Velotseraptor",
+                            "anime_step":20
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Little Dragon",
+                            "anime_step":24
+                            }
+                            ]
+                  },
+                  {
                   "category_id":"2",
                   "category_name":"Animal 1",
                   "category_thumbnail":"2.png",
@@ -249,6 +297,11 @@
                             "anime_id":"20",
                             "anime_name":"Zebra",
                             "anime_step":25
+                            },
+                            {
+                            "anime_id":"21",
+                            "anime_name":"Horse Gorbunok",
+                            "anime_step":32
                             }
                             ]
                   },
@@ -395,6 +448,21 @@
                             "anime_id":"7",
                             "anime_name":"White Parrot",
                             "anime_step":16
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Bird as Princess Leia",
+                            "anime_step":24
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Dard Bird Darth Vader",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Luke Skywalker",
+                            "anime_step":18
                             }
                             ]
                   },
@@ -448,12 +516,72 @@
                             "anime_id":"9",
                             "anime_name":"Piglet Pyatachok",
                             "anime_step":29
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Car Of James Bond",
+                            "anime_step":21
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Cowboy Doll",
+                            "anime_step":36
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Dog Pluto",
+                            "anime_step":21
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Donald Duck",
+                            "anime_step":34
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Jolly Little Elf",
+                            "anime_step":23
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Merry Gnome",
+                            "anime_step":32
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Micky Mouse",
+                            "anime_step":26
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Minnie Mouse",
+                            "anime_step":29
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Slinky Doggy",
+                            "anime_step":27
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Space Ranger Buzz",
+                            "anime_step":22
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Supercar Jaguar",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"21",
+                            "anime_name":"Wise Wizard",
+                            "anime_step":28
                             }
                             ]
                   },
                   {
                   "category_id":"6",
-                  "category_name":"Princess",
+                  "category_name":"Princesses",
                   "category_thumbnail":"6.png",
                   "is_video":"false",
                   "animes":[
@@ -496,11 +624,74 @@
                             "anime_id":"8",
                             "anime_name":"Wicked Queen",
                             "anime_step":31
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Cinderella",
+                            "anime_step":35
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Mermaid",
+                            "anime_step":30
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Persian",
+                            "anime_step":32
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Russian",
+                            "anime_step":34
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Tinana",
+                            "anime_step":35
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Young Princess",
+                            "anime_step":35
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"7",
+                  "category_name":"Fairies",
+                  "category_thumbnail":"7.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Chocolate Fairy",
+                            "anime_step":30
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Fairy Of Spring",
+                            "anime_step":35
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Flying Fairy",
+                            "anime_step":29
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Mistress Fairy",
+                            "anime_step":36
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Thumbelina",
+                            "anime_step":29
                             }
                             ]
                   },
 		{
-			"category_id":"7",
+			"category_id":"8",
 			"category_name":"Stop Motion Polymer Clay Tutorials",
 			"category_thumbnail":"aj33j7xfdr0",
             "is_video":"true",
@@ -604,7 +795,7 @@
 			]
 		},
                   {
-                  "category_id":"8",
+                  "category_id":"9",
                   "category_name":"Nerdy Things",
                   "category_thumbnail":"atpgI3A-fbA",
                   "is_video":"true",
