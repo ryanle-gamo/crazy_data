@@ -74,7 +74,27 @@
                   "animes":[
                             {
                             "anime_id":"1",
-                            "anime_name":"test",
+                            "anime_name":"Alice",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Anna",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Ariel",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Belle",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Cinderella",
                             "anime_step":0
                             }
                             ]
@@ -87,7 +107,27 @@
                   "animes":[
                             {
                             "anime_id":"1",
-                            "anime_name":"test",
+                            "anime_name":"Anime Mermaid",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Ariel",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Ariel Chibi",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Beautiful Mermaid",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Blue Haired Mermaid",
                             "anime_step":0
                             }
                             ]
@@ -100,7 +140,27 @@
                   "animes":[
                             {
                             "anime_id":"1",
-                            "anime_name":"test",
+                            "anime_name":"Cute Angel",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Angel with Rose",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Twins Angels",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Adorable Angel",
+                            "anime_step":0
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Beautiful Angel",
                             "anime_step":0
                             }
                             ]
