@@ -1,600 +1,89 @@
 {
 	"categories":[
-		{
-			"category_id":"1",
-			"category_name":"Dinosaurs",
-			"category_thumbnail":"1.png",
-            "is_video":"false",
-			"animes":[
-				{
-					"anime_id":"1",
-					"anime_name":"Parasaurolophus",
-					"anime_step":11
-				},
-				{
-					"anime_id":"2",
-					"anime_name":"Triceratops",
-					"anime_step":22
-				},
-                      {
-                      "anime_id":"3",
-                      "anime_name":"Giganotosaurus",
-                      "anime_step":9
-                      },
-                      {
-                      "anime_id":"4",
-                      "anime_name":"Sarcosuchus",
-                      "anime_step":17
-                      },
-                      {
-                      "anime_id":"5",
-                      "anime_name":"Pteranodon",
-                      "anime_step":13
-                      },
-                      {
-                      "anime_id":"6",
-                      "anime_name":"Argentinosaurus",
-                      "anime_step":13
-                      },
-                      {
-                      "anime_id":"7",
-                      "anime_name":"Nodosaurus",
-                      "anime_step":8
-                      },
-                      {
-                      "anime_id":"8",
-                      "anime_name":"Troodon",
-                      "anime_step":18
-                      },
-                      {
-                      "anime_id":"9",
-                      "anime_name":"Mechelinoceras",
-                      "anime_step":9
-                      },
-                      {
-                      "anime_id":"10",
-                      "anime_name":"Tyrannosaurus",
-                      "anime_step":9
-                      },
-                      {
-                      "anime_id":"11",
-                      "anime_name":"Stegosaurus",
-                      "anime_step":8
-                      },
-                      {
-                      "anime_id":"12",
-                      "anime_name":"Elasmosaurus",
-                      "anime_step":6
-                      },
-                      {
-                      "anime_id":"13",
-                      "anime_name":"Styracosaurus",
-                      "anime_step":7
-                      },
-                      {
-                      "anime_id":"14",
-                      "anime_name":"Adocus",
-                      "anime_step":7
-                      },
-                      {
-                      "anime_id":"15",
-                      "anime_name":"Diplodocus",
-                      "anime_step":6
-                      },
-                      {
-                      "anime_id":"16",
-                      "anime_name":"Cretoxyrhina",
-                      "anime_step":15
-                      },
-                      {
-                      "anime_id":"17",
-                      "anime_name":"Gorgosaurus",
-                      "anime_step":7
-                      },
-                      {
-                      "anime_id":"18",
-                      "anime_name":"Stygimoloch",
-                      "anime_step":12
-                      },
-                      {
-                      "anime_id":"19",
-                      "anime_name":"Archaeopteryx",
-                      "anime_step":10
-                      },
-                      {
-                      "anime_id":"20",
-                      "anime_name":"Kentrosaurus",
-                      "anime_step":9
-                      },
-                      {
-                      "anime_id":"21",
-                      "anime_name":"Alamosaurus",
-                      "anime_step":7
-                      },
-                      {
-                      "anime_id":"22",
-                      "anime_name":"Velociraptor",
-                      "anime_step":9
-                      },
-                      {
-                      "anime_id":"23",
-                      "anime_name":"Eotriceratops",
-                      "anime_step":6
-                      },
-                      {
-                      "anime_id":"24",
-                      "anime_name":"Allosaurus",
-                      "anime_step":8
-                      },
-                      {
-                      "anime_id":"25",
-                      "anime_name":"Ankylosaurus",
-                      "anime_step":8
-                      },
-                      {
-                      "anime_id":"26",
-                      "anime_name":"Spinosaurus",
-                      "anime_step":7
-                      },
-                      {
-                      "anime_id":"27",
-                      "anime_name":"Iguanodon",
-                      "anime_step":4
-                      }
-                      
-			]
-		},
                   {
-                  "category_id":"2",
-                  "category_name":"Animal 1",
-                  "category_thumbnail":"2.png",
-                  "is_video":"false",
-                  "animes":[
+                    "category_id":"1",
+                    "category_name":"Animal Jam",
+                    "category_thumbnail":"1.png",
+                    "is_video":"false",
+                    "animes":[
+                              {
+                                "anime_id":"1",
+                                "anime_name":"Deer",
+                                "anime_step":16
+                              },
+                              {
+                              "anime_id":"2",
+                              "anime_name":"Bunny",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id":"3",
+                              "anime_name":"Wolf",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id":"4",
+                              "anime_name":"Cheetah",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id":"5",
+                              "anime_name":"Kangaroo",
+                              "anime_step":15
+                              }
+                              ]
+                  },
+                  {
+                    "category_id":"2",
+                    "category_name":"Furry",
+                    "category_thumbnail":"2.png",
+                    "is_video":"false",
+                    "animes":[
                             {
-                            "anime_id":"1",
-                            "anime_name":"Bear",
-                            "anime_step":20
-                            },
-                            {
-                            "anime_id":"2",
-                            "anime_name":"Cow",
-                            "anime_step":22
-                            },
-                            {
-                            "anime_id":"3",
-                            "anime_name":"Dog",
-                            "anime_step":22
-                            },
-                            {
-                            "anime_id":"4",
-                            "anime_name":"Giraffe",
-                            "anime_step":25
-                            },
-                            {
-                            "anime_id":"5",
-                            "anime_name":"Baby Lion",
-                            "anime_step":22
-                            },
-                            {
-                            "anime_id":"6",
-                            "anime_name":"Elephant",
-                            "anime_step":22
-                            },
-                            {
-                            "anime_id":"7",
-                            "anime_name":"Fenech",
-                            "anime_step":25
-                            },
-                            {
-                            "anime_id":"8",
-                            "anime_name":"Fox",
-                            "anime_step":23
-                            },
-                            {
-                            "anime_id":"9",
-                            "anime_name":"Gorilla",
-                            "anime_step":21
-                            },
-                            {
-                            "anime_id":"10",
-                            "anime_name":"Hippo",
-                            "anime_step":32
-                            },
-                            {
-                            "anime_id":"11",
-                            "anime_name":"Horse",
-                            "anime_step":25
-                            },
-                            {
-                            "anime_id":"12",
-                            "anime_name":"Jaguar",
-                            "anime_step":23
-                            },
-                            {
-                            "anime_id":"13",
-                            "anime_name":"Lion",
-                            "anime_step":23
-                            },
-                            {
-                            "anime_id":"14",
-                            "anime_name":"Monkey",
-                            "anime_step":26
-                            },
-                            {
-                            "anime_id":"15",
-                            "anime_name":"Orangutang",
-                            "anime_step":27
-                            },
-                            {
-                            "anime_id":"16",
-                            "anime_name":"Panda",
-                            "anime_step":33
-                            },
-                            {
-                            "anime_id":"17",
-                            "anime_name":"Rhino",
-                            "anime_step":27
-                            },
-                            {
-                            "anime_id":"18",
-                            "anime_name":"Sheep",
-                            "anime_step":20
-                            },
-                            {
-                            "anime_id":"19",
-                            "anime_name":"Tiger",
-                            "anime_step":20
-                            },
-                            {
-                            "anime_id":"20",
-                            "anime_name":"Zebra",
-                            "anime_step":25
+                              "anime_id":"1",
+                              "anime_name":"test",
+                              "anime_step":0
                             }
                             ]
                   },
                   {
                   "category_id":"3",
-                  "category_name":"Animal 2",
+                  "category_name":"Princesses",
                   "category_thumbnail":"3.png",
                   "is_video":"false",
                   "animes":[
                             {
                             "anime_id":"1",
-                            "anime_name":"Basset Hound",
-                            "anime_step":11
-                            },
-                            {
-                            "anime_id":"2",
-                            "anime_name":"Boa",
-                            "anime_step":13
-                            },
-                            {
-                            "anime_id":"3",
-                            "anime_name":"CaterPillar",
-                            "anime_step":28
-                            },
-                            {
-                            "anime_id":"4",
-                            "anime_name":"Cheerful Hare",
-                            "anime_step":16
-                            },
-                            {
-                            "anime_id":"5",
-                            "anime_name":"Cock-A-Doodle-Doo",
-                            "anime_step":17
-                            },
-                            {
-                            "anime_id":"6",
-                            "anime_name":"Elk Losyash",
-                            "anime_step":13
-                            },
-                            {
-                            "anime_id":"7",
-                            "anime_name":"Frog",
-                            "anime_step":19
-                            },
-                            {
-                            "anime_id":"8",
-                            "anime_name":"Funny Bee",
-                            "anime_step":10
-                            },
-                            {
-                            "anime_id":"9",
-                            "anime_name":"Green Cockerel",
-                            "anime_step":11
-                            },
-                            {
-                            "anime_id":"10",
-                            "anime_name":"Green Hen",
-                            "anime_step":7
-                            },
-                            {
-                            "anime_id":"11",
-                            "anime_name":"Little Penguin",
-                            "anime_step":12
-                            },
-                            {
-                            "anime_id":"12",
-                            "anime_name":"Merry Mole",
-                            "anime_step":17
-                            },
-                            {
-                            "anime_id":"13",
-                            "anime_name":"Piggy Ksenia",
-                            "anime_step":14
-                            },
-                            {
-                            "anime_id":"14",
-                            "anime_name":"Purple Bear",
-                            "anime_step":10
-                            },
-                            {
-                            "anime_id":"15",
-                            "anime_name":"Red Wolf",
-                            "anime_step":21
-                            },
-                            {
-                            "anime_id":"16",
-                            "anime_name":"Snail",
-                            "anime_step":10
-                            },
-                            {
-                            "anime_id":"17",
-                            "anime_name":"Tabby Cat",
-                            "anime_step":13
-                            },
-                            {
-                            "anime_id":"18",
-                            "anime_name":"Totoro",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"19",
-                            "anime_name":"Turtle Tortila",
-                            "anime_step":21
+                            "anime_name":"test",
+                            "anime_step":0
                             }
                             ]
                   },
                   {
                   "category_id":"4",
-                  "category_name":"Funny Bird",
+                  "category_name":"Mermaids",
                   "category_thumbnail":"4.png",
                   "is_video":"false",
                   "animes":[
                             {
                             "anime_id":"1",
-                            "anime_name":"Big Yelow Bird",
-                            "anime_step":17
-                            },
-                            {
-                            "anime_id":"2",
-                            "anime_name":"Blue Funny Calibri",
-                            "anime_step":16
-                            },
-                            {
-                            "anime_id":"3",
-                            "anime_name":"Brown Bird",
-                            "anime_step":14
-                            },
-                            {
-                            "anime_id":"4",
-                            "anime_name":"Green Round Brid",
-                            "anime_step":17
-                            },
-                            {
-                            "anime_id":"5",
-                            "anime_name":"Mighty Egle",
-                            "anime_step":14
-                            },
-                            {
-                            "anime_id":"6",
-                            "anime_name":"Red Bird",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"7",
-                            "anime_name":"White Parrot",
-                            "anime_step":16
+                            "anime_name":"test",
+                            "anime_step":0
                             }
                             ]
                   },
                   {
                   "category_id":"5",
-                  "category_name":"Cartoon",
+                  "category_name":"Cute Angels",
                   "category_thumbnail":"5.png",
                   "is_video":"false",
                   "animes":[
                             {
                             "anime_id":"1",
-                            "anime_name":"Carlson",
-                            "anime_step":34
-                            },
-                            {
-                            "anime_id":"2",
-                            "anime_name":"Cheburashka",
-                            "anime_step":23
-                            },
-                            {
-                            "anime_id":"3",
-                            "anime_name":"Extraterrestrial",
-                            "anime_step":16
-                            },
-                            {
-                            "anime_id":"4",
-                            "anime_name":"Mr Potato",
-                            "anime_step":26
-                            },
-                            {
-                            "anime_id":"5",
-                            "anime_name":"Nemo Fish",
-                            "anime_step":12
-                            },
-                            {
-                            "anime_id":"6",
-                            "anime_name":"Three-Headed Dragon",
-                            "anime_step":24
-                            }
-                            ]
-                  },
-		{
-			"category_id":"6",
-			"category_name":"Stop Motion Polymer Clay Tutorials",
-			"category_thumbnail":"aj33j7xfdr0",
-            "is_video":"true",
-			"animes":[
-				{
-					"anime_id":"aj33j7xfdr0",
-					"anime_name":"Popsicle Thumbtacks Summer Polymer Clay Tutorial",
-                    "anime_duration":"02:10",
-					"anime_step":0
-				},
-				{
-					"anime_id":"mHEkuxS3l4U",
-					"anime_name":"Cookie Monster Polymer Clay Earrings",
-                      "anime_duration":"00:59",
-					"anime_step":0
-				},
-				{
-					"anime_id":"yeBDiQp1a8o",
-					"anime_name":"Halloween DIY: Broken Teddy Bear Dangling Polymer Clay Miniature Charm",
-                      "anime_duration":"01:46",
-					"anime_step":0
-				},
-				{
-					"anime_id":"5kIqofINX20",
-					"anime_name":"Minnie Mouse Disney Polymer Clay Miniature Charm Tutorial",
-                      "anime_duration":"01:35",
-					"anime_step":0
-				},
-				{
-					"anime_id":"atpgI3A-fbA",
-					"anime_name":"Dalek Miniature Doctor Who Polymer Clay Charm",
-                      "anime_duration":"01:45",
-					"anime_step":0
-				},
-                      {
-                      "anime_id":"3iDOJFM7pQo",
-                      "anime_name":"Mouton the Elephant Themed Polymer Clay Pen",
-                      "anime_duration":"02:22",
-                      "anime_step":0
-                      },
-                      {
-                      "anime_id":"FSRX-hupvJ8",
-                      "anime_name":"Cute Piano Ring",
-                      "anime_duration":"01:03",
-                      "anime_step":0
-                      },
-                      {
-                      "anime_id":"ttGGgVME1ts",
-                      "anime_name":"Piece of the TARDIS Polymer Clay Charm",
-                      "anime_duration":"01:22",
-                      "anime_step":0
-                      },
-                      {
-                      "anime_id":"nPsSkqVsENk",
-                      "anime_name":"Dorothy's Ruby Red Slippers",
-                      "anime_duration":"01:21",
-                      "anime_step":0
-                      },
-                      {
-                      "anime_id":"qf9JWw6PFJ4",
-                      "anime_name":"Goldilocks Polymer Clay Tutorial",
-                      "anime_duration":"02:01",
-                      "anime_step":0
-                      },
-                      {
-                      "anime_id":"plAyD_TWP28",
-                      "anime_name":"Bookworm & Apple",
-                      "anime_duration":"01:08",
-                      "anime_step":0
-                      },
-                      {
-                      "anime_id":"YWCvSCVQfNA",
-                      "anime_name":"River Song's TARDIS Journal Doctor Who",
-                      "anime_duration":"01:24",
-                      "anime_step":0
-                      },
-                      {
-                      "anime_id":"Vpqnf1EyHvc",
-                      "anime_name":"Butterfly Fairy Necklace",
-                      "anime_duration":"01:23",
-                      "anime_step":0
-                      },
-                      {
-                      "anime_id":"HxWkmD0aVLk",
-                      "anime_name":"Teddy Bear",
-                      "anime_duration":"01:11",
-                      "anime_step":0
-                      },
-                      {
-                      "anime_id":"3N-kFNw7dPA",
-                      "anime_name":"Hot Air Balloon Necklace",
-                      "anime_duration":"01:35",
-                      "anime_step":0
-                      },
-                      {
-                      "anime_id":"olbZ6B3O1CQ",
-                      "anime_name":"Strawberry Kitty Cupcake Polymer Clay Charm Tutorial",
-                      "anime_duration":"01:58",
-                      "anime_step":0
-                      }
-			]
-		},
-                  {
-                  "category_id":"7",
-                  "category_name":"Nerdy Things",
-                  "category_thumbnail":"atpgI3A-fbA",
-                  "is_video":"true",
-                  "animes":[
-                            {
-                            "anime_id":"atpgI3A-fbA",
-                            "anime_name":"Dalek Miniature Doctor Who Polymer Clay Charm ",
-                            "anime_duration":"1:45",
-                            "anime_step":0
-                            },
-                            {
-                            "anime_id":"ttGGgVME1ts",
-                            "anime_name":"Piece of the TARDIS Polymer Clay Charm",
-                            "anime_duration":"1:21",
-                            "anime_step":0
-                            },
-                            {
-                            "anime_id":"YWCvSCVQfNA",
-                            "anime_name":"River Song's TARDIS Journal Doctor Who",
-                            "anime_duration":"1:24",
-                            "anime_step":0
-                            },
-                            {
-                            "anime_id":"0443RAPzP0o",
-                            "anime_name":"Anatomical Human Heart Polymer Clay Magnet ",
-                            "anime_duration":"3:27",
-                            "anime_step":0
-                            },
-                            {
-                            "anime_id":"90Hasi1Z2_o",
-                            "anime_name":"William Shakespeare Polymer Clay Charm Tutorial",
-                            "anime_duration":"3:17",
-                            "anime_step":0
-                            },
-                            {
-                            "anime_id":"xhtB8FW1b9k",
-                            "anime_name":"Doctor Who TARDIS Polymer Clay Charm Tutorial",
-                            "anime_duration":"4:56",
-                            "anime_step":0
-                            },
-                            {
-                            "anime_id":"rg4lqeEdLXk",
-                            "anime_name":"Anglerfish [Hanklerfish] Polymer Clay Charm Tutorial ",
-                            "anime_duration":"1:58",
-                            "anime_step":0
-                            },
-                            {
-                            "anime_id":"cSPSnbp5IOs",
-                            "anime_name":"Fish Fingers and Custard Bowl Polymer Clay Charm Necklace Tutorial",
-                            "anime_duration":"3:44",
+                            "anime_name":"test",
                             "anime_step":0
                             }
                             ]
                   }
-	]
+                  ]
 }
