@@ -41,9 +41,29 @@
                     "animes":[
                             {
                               "anime_id":"1",
-                              "anime_name":"test",
-                              "anime_step":0
-                            }
+                              "anime_name":"Bunny",
+                              "anime_step":15
+                            },
+                              {
+                              "anime_id":"2",
+                              "anime_name":"Mr. Doberman",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id":"3",
+                              "anime_name":"Wild Cat",
+                              "anime_step":17
+                              },
+                              {
+                              "anime_id":"4",
+                              "anime_name":"Deer",
+                              "anime_step":19
+                              },
+                              {
+                              "anime_id":"5",
+                              "anime_name":"Gray Fox",
+                              "anime_step":17
+                              }
                             ]
                   },
                   {
