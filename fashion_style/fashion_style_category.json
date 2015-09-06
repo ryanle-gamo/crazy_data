@@ -8,8 +8,198 @@
                   "animes":[
                             {
                             "anime_id":"1",
-                            "anime_name":"Parasaurolophus",
+                            "anime_name":"Accordion Bow",
                             "anime_step":11
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Ascot",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Ascot Neckwrap",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Bandit",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Braid",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Boa",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Bow Tie",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Buckaroo",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Bunny Ears",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Casual",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Celebrity",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Cowboy",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Diagonal",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Double Rainbow",
+                            "anime_step":20
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Easy Knot",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"European Loop",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Fake Knot",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Figure Eight Knot",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Hollywood Knot",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Ladies Half Windsor",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"21",
+                            "anime_name":"Ladies Wrap",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"22",
+                            "anime_name":"Lola",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"23",
+                            "anime_name":"Magic Knot",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"24",
+                            "anime_name":"The Mira",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"25",
+                            "anime_name":"Neck Wrap",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"26",
+                            "anime_name":"Neck Sash",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"27",
+                            "anime_name":"Pleated Drape",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"28",
+                            "anime_name":"Propeller",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"29",
+                            "anime_name":"Rose",
+                            "anime_step":22
+                            },
+                            {
+                            "anime_id":"30",
+                            "anime_name":"Rosette",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"31",
+                            "anime_name":"Spanish Rose",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"32",
+                            "anime_name":"Square Knot",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"33",
+                            "anime_name":"Stock Tie",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"34",
+                            "anime_name":"The X",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"35",
+                            "anime_name":"Turtleneck",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"36",
+                            "anime_name":"Twice Around Ascot",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"37",
+                            "anime_name":"Twisted Knot",
+                            "anime_step":5
+                            },
+                            {
+                            "anime_id":"38",
+                            "anime_name":"Waterfall",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"39",
+                            "anime_name":"Western",
+                            "anime_step":7
                             }
                             ]
                   },
@@ -21,8 +211,28 @@
                   "animes":[
                             {
                             "anime_id":"1",
-                            "anime_name":"Bear",
-                            "anime_step":20
+                            "anime_name":"Shoulder Sack",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Knotty Bag",
+                            "anime_step":18
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Waist Pack",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Elbow Bag",
+                            "anime_step":26
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Feebag",
+                            "anime_step":15
                             }
                             ]
                   },
@@ -34,8 +244,28 @@
                   "animes":[
                             {
                             "anime_id":"1",
-                            "anime_name":"Basset Hound",
+                            "anime_name":"Bandana scarf",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Sun Protection",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Pirate Fleur",
                             "anime_step":11
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Head Wrap",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Scarf Ponytail",
+                            "anime_step":7
                             }
                             ]
                   },
@@ -47,8 +277,28 @@
                   "animes":[
                             {
                             "anime_id":"1",
-                            "anime_name":"Big Yelow Bird",
-                            "anime_step":17
+                            "anime_name":"Scarf Around Waist",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Scarf Belt",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Belt With a Buckle",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Diagonal Belt",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Cummerbund",
+                            "anime_step":10
                             }
                             ]
                   },
@@ -60,8 +310,28 @@
                   "animes":[
                             {
                             "anime_id":"1",
-                            "anime_name":"Carlson",
-                            "anime_step":34
+                            "anime_name":"Scarf Blouse",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Cannes Top",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Monaco Top",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Montpellier Top",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Asymmetric Top",
+                            "anime_step":16
                             }
                             ]
                   },
@@ -73,8 +343,28 @@
                   "animes":[
                             {
                             "anime_id":"1",
-                            "anime_name":"Chinese Princess",
-                            "anime_step":23
+                            "anime_name":"Scarf Skirt",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Double-Layer Skirt",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Around Waist Scarf",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Dishy Skirt",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Multicolored Skirt",
+                            "anime_step":11
                             }
                             ]
                   },
@@ -86,8 +376,28 @@
                   "animes":[
                             {
                             "anime_id":"1",
-                            "anime_name":"Chocolate Fairy",
-                            "anime_step":30
+                            "anime_name":"Bow Scarf",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Hair Band Scarf",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Hairstyle of Beach",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Cochlea HairStyle",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Ponytail Wrap",
+                            "anime_step":8
                             }
                             ]
                   }
