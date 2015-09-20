@@ -1179,6 +1179,99 @@
                             "anime_step":12
                             }
                             ]
+                  },
+                  {
+                  "category_id":"11",
+                  "category_name":"Clash of Clans",
+                  "category_thumbnail":"11.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Barbarian",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Archer",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Goblin",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Giant",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Wall Breaker",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Wizart",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Healer",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Dragon",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Minion",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Hog Rider",
+                            "anime_step":18
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Valkyrie",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Golem",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Witch",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Barbarian King",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Archer Queen",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Logo",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"P.E.K.K.A",
+                            "anime_step":15
+                            }
+                            ]
                   }
                   ]
 }
