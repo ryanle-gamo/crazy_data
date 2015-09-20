@@ -1071,6 +1071,114 @@
                             "anime_step":10
                             }
                             ]
+                  },
+                  {
+                  "category_id":"10",
+                  "category_name":"Hay Day",
+                  "category_thumbnail":"10.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Grey Donkey",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Andalusian Horse",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Barn",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Sheep",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Chicken",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Cow",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Goat",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Lobster",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Palomino Horse",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Pig",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Dog",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Cat",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Greg",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Joan",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Betty",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Mike",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Fish",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Sheep Grown Up",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Tom",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Cow Milky",
+                            "anime_step":12
+                            }
+                            ]
                   }
                   ]
 }
