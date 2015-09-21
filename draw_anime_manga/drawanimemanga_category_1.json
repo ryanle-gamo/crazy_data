@@ -1272,6 +1272,114 @@
                             "anime_step":15
                             }
                             ]
+                  },
+                  {
+                  "category_id":"12",
+                  "category_name":"Candy Crush",
+                  "category_thumbnail":"12.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Logo",
+                            "anime_step":19
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Tiffi",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Tiffi on train",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Tiffi on Ship",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Mr. Toffee Face",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Mr. Toffee",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Candy Mill",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Genie",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Candy Factory",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Dragon",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Airplane",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Train",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Odus Owl",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Tree",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Bridge",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Jelly Fish",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Lollipop Hammer",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Lucky Candy",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Color Bomb",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Booster Wheel",
+                            "anime_step":13
+                            }
+                            ]
                   }
                   ]
 }
