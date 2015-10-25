@@ -1,10 +1,8 @@
 {
 	"code":1,
-	"latest_version":"4.0.0",
+	"latest_version”:”1.0.0”,
 	"admob_banner_id":"ca-app-pub-4322965078780162/6971913537",
     "admob_interstitial_id":"ca-app-pub-4322965078780162/9925379931",
-    "startapp_dev_id":"101443341",
-    "startapp_app_id":"206835170",
     "authentication_key":"AIzaSyC1CDEt-gwj8QFxPCP9glA2GnoR1ljUM00",
     "channel_id":"UC56oLyBaAmiyCfVGfCzAozQ",
     "itune_url":"http://itunes.apple.com/app/id770145176"
