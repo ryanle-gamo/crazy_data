@@ -1,11 +1,11 @@
 {
 	"code":1,
 	"latest_version":"1.0.0",
-	"admob_banner_id":"ca-app-pub-4322965078780162/8195539136",
-    "admob_interstitial_id":"ca-app-pub-4322965078780162/9672272330",
-    "mopub_banner_id":"f6c7a56d69a34f78b1b01b22baae368a",
-    "mopub_banner_id_ipad":"3a4db5cca22843298296dcadc2020f57",
+	"admob_banner_id":"ca-app-pub-4322965078780162/2650899537",
+    "admob_interstitial_id":"ca-app-pub-4322965078780162/4127632734",
+    "mopub_banner_id":"e0a9d9e9c0114671b8ebae0ca2d5c3e1",
+    "mopub_banner_id_ipad":"06838d77ecff490f89ec714b3ef84524",
     "authentication_key":"AIzaSyChsPBuLJP2n86RODDECVXbw6sM_MT12dY",
     "channel_id":"UCxLWYWl9kLpZIDntHmHq98A",
-    "itune_url":"http://itunes.apple.com/app/id1063222842"
+    "itune_url":"http://itunes.apple.com/app/id1067578688"
 }
