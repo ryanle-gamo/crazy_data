@@ -1,6 +1,8 @@
 {
-	"version":"beta",
-	"code":1,
-	"category_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_anime_manga/drawanimemanga_category_1.json",
-	"file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_anime_manga/"
+	"latest_version":"1.0.1",
+    "category_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_anime_manga/drawanimemanga_category_1.json",
+    "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_anime_manga/",
+    "admob_banner_id":"ca-app-pub-4322965078780162/2650899537",
+    "admob_interstitial_id":"ca-app-pub-4322965078780162/4127632734",
+    "itune_url":"http://itunes.apple.com/app/id1067578688"
 }
