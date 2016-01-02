@@ -1,0 +1,169 @@
+{
+	"categories":[
+                  {
+                    "category_id":"1",
+                    "category_name":"Animal Jam",
+                    "category_thumbnail":"1.png",
+                    "is_video":"false",
+                    "animes":[
+                              {
+                                "anime_id":"1",
+                                "anime_name":"Deer",
+                                "anime_step":16
+                              },
+                              {
+                              "anime_id":"2",
+                              "anime_name":"Bunny",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id":"3",
+                              "anime_name":"Wolf",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id":"4",
+                              "anime_name":"Cheetah",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id":"5",
+                              "anime_name":"Kangaroo",
+                              "anime_step":15
+                              }
+                              ]
+                  },
+                  {
+                    "category_id":"2",
+                    "category_name":"Furry",
+                    "category_thumbnail":"2.png",
+                    "is_video":"false",
+                    "animes":[
+                            {
+                              "anime_id":"1",
+                              "anime_name":"Bunny",
+                              "anime_step":15
+                            },
+                              {
+                              "anime_id":"2",
+                              "anime_name":"Mr. Doberman",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id":"3",
+                              "anime_name":"Wild Cat",
+                              "anime_step":17
+                              },
+                              {
+                              "anime_id":"4",
+                              "anime_name":"Deer",
+                              "anime_step":19
+                              },
+                              {
+                              "anime_id":"5",
+                              "anime_name":"Gray Fox",
+                              "anime_step":17
+                              }
+                            ]
+                  },
+                  {
+                  "category_id":"3",
+                  "category_name":"Princesses",
+                  "category_thumbnail":"3.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Alice",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Anna",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Ariel",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Belle",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Cinderella",
+                            "anime_step":12
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"4",
+                  "category_name":"Mermaids",
+                  "category_thumbnail":"4.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Anime Mermaid",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Ariel",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Ariel Chibi",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Beautiful Mermaid",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Blue Haired Mermaid",
+                            "anime_step":10
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"5",
+                  "category_name":"Cute Angels",
+                  "category_thumbnail":"5.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Cute Angel",
+                            "anime_step":18
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Angel with Rose",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Twins Angels",
+                            "anime_step":24
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Adorable Angel",
+                            "anime_step":19
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Beautiful Angel",
+                            "anime_step":18
+                            }
+                            ]
+                  }
+                  ]
+}
