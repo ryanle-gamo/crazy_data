@@ -30,6 +30,196 @@
                               "anime_id":"32",
                               "anime_name":"Cross",
                               "anime_step":7
+                              },
+                              {
+                              "anime_id":"07",
+                              "anime_name":"Deer",
+                              "anime_step":
+                              },
+                              {
+                              "anime_id":"34",
+                              "anime_name":"Deer",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id":"09",
+                              "anime_name":"Dragon",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"33",
+                              "anime_name":"Dragons",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id":"8",
+                              "anime_name":"Eagle",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id":"28",
+                              "anime_name":"Egyptian Ankh",
+                              "anime_step":19
+                              },
+                              {
+                              "anime_id":"41",
+                              "anime_name":"Ethno",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"26",
+                              "anime_name":"Eye",
+                              "anime_step":24
+                              },
+                              {
+                              "anime_id":"24",
+                              "anime_name":"Eye Wings",
+                              "anime_step":30
+                              },
+                              {
+                              "anime_id":"03",
+                              "anime_name":"Fish #1",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id":"16",
+                              "anime_name":"Fish #2",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id":"17",
+                              "anime_name":"Flying Dragon",
+                              "anime_step":22
+                              },
+                              {
+                              "anime_id":"21",
+                              "anime_name":"Goat",
+                              "anime_step":21
+                              },
+                              {
+                              "anime_id":"19",
+                              "anime_name":"Growling Tiger",
+                              "anime_step":34
+                              },
+                              {
+                              "anime_id":"38",
+                              "anime_name":"Heart",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"10",
+                              "anime_name":"Lion",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"40",
+                              "anime_name":"Mandala",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id":"23",
+                              "anime_name":"Mystic Sign",
+                              "anime_step":16
+                              },
+                              {
+                              "anime_id":"42",
+                              "anime_name":"Pokemon",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id":"13",
+                              "anime_name":"Roaring Lion",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id":"27",
+                              "anime_name":"Rose",
+                              "anime_step":17
+                              },
+                              {
+                              "anime_id":"35",
+                              "anime_name":"Rose",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"25",
+                              "anime_name":"Sea Horse",
+                              "anime_step":30
+                              },
+                              {
+                              "anime_id":"36",
+                              "anime_name":"Sea Horse",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"18",
+                              "anime_name":"Shark",
+                              "anime_step":22
+                              },
+                              {
+                              "anime_id":"30",
+                              "anime_name":"Treble Clef",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id":"01",
+                              "anime_name":"Tribal Tattoo #1",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id":"05",
+                              "anime_name":"Tribal Tattoo #2",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id":"06",
+                              "anime_name":"Tribal Tattoo #3",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id":"11",
+                              "anime_name":"Tribal Tattoo #4",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"12",
+                              "anime_name":"Tribal Tattoo #5",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id":"29",
+                              "anime_name":"Trible Man",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id":"15",
+                              "anime_name":"Ugly Dragon",
+                              "anime_step":22
+                              },
+                              {
+                              "anime_id":"14",
+                              "anime_name":"Wolf #1",
+                              "anime_step":28
+                              },
+                              {
+                              "anime_id":"02",
+                              "anime_name":"Wolf #2/",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id":"31",
+                              "anime_name":"Wolf And Rose",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id":"43",
+                              "anime_name":"Zodiac",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id":"20",
+                              "anime_name":"Zombie Skull",
+                              "anime_step":14
                               }
                               ]
                   }
