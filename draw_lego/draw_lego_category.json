@@ -145,11 +145,6 @@
                     "is_video":"false",
                     "animes":[
                               {
-                              "anime_id":"01",
-                              "anime_name":"Batman",
-                              "anime_step":15
-                              },
-                              {
                               "anime_id":"02",
                               "anime_name":"Superman",
                               "anime_step":13
@@ -168,6 +163,11 @@
                               "anime_id":"05",
                               "anime_name":"Gandalf",
                               "anime_step":12
+                              },
+                              {
+                              "anime_id":"01",
+                              "anime_name":"Batman",
+                              "anime_step":15
                               },
                               {
                               "anime_id":"06",
