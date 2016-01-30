@@ -12,7 +12,7 @@
                                 "anime_step":11
                               },
                               {
-                              "anime_id":"3",
+                              "anime_id":"03",
                               "anime_name":"Batman",
                               "anime_step":15
                               },
@@ -22,12 +22,12 @@
                               "anime_step":13
                               },
                               {
-                              "anime_id":"5",
+                              "anime_id":"05",
                               "anime_name":"Black Widow",
                               "anime_step":15
                               },
                               {
-                              "anime_id":"2",
+                              "anime_id":"02",
                               "anime_name":"Captain America",
                               "anime_step":15
                               },
@@ -47,12 +47,12 @@
                               "anime_step":16
                               },
                               {
-                              "anime_id":"6",
+                              "anime_id":"06",
                               "anime_name":"Hulk",
                               "anime_step":12
                               },
                               {
-                              "anime_id":"1",
+                              "anime_id":"01",
                               "anime_name":"Iron Man",
                               "anime_step":16
                               },
@@ -82,7 +82,7 @@
                               "anime_step":11
                               },
                               {
-                              "anime_id":"7",
+                              "anime_id":"07",
                               "anime_name":"Robin",
                               "anime_step":15
                               },
@@ -102,12 +102,12 @@
                               "anime_step":11
                               },
                               {
-                              "anime_id":"8",
+                              "anime_id":"08",
                               "anime_name":"Spider-man",
                               "anime_step":13
                               },
                               {
-                              "anime_id":"4",
+                              "anime_id":"04",
                               "anime_name":"Superman",
                               "anime_step":13
                               },
@@ -127,7 +127,7 @@
                               "anime_step":14
                               },
                               {
-                              "anime_id":"9",
+                              "anime_id":"09",
                               "anime_name":"Wolverine",
                               "anime_step":13
                               },
@@ -145,47 +145,47 @@
                     "is_video":"false",
                     "animes":[
                               {
-                              "anime_id":"1",
+                              "anime_id":"01",
                               "anime_name":"Batman",
                               "anime_step":15
                               },
                               {
-                              "anime_id":"2",
+                              "anime_id":"02",
                               "anime_name":"Superman",
                               "anime_step":13
                               },
                               {
-                              "anime_id":"3",
+                              "anime_id":"03",
                               "anime_name":"Wonder Woman",
                               "anime_step":13
                               },
                               {
-                              "anime_id":"4",
+                              "anime_id":"04",
                               "anime_name":"Green Lantern",
                               "anime_step":16
                               },
                               {
-                              "anime_id":"5",
+                              "anime_id":"05",
                               "anime_name":"Gandalf",
                               "anime_step":12
                               },
                               {
-                              "anime_id":"6",
+                              "anime_id":"06",
                               "anime_name":"Emmet",
                               "anime_step":12
                               },
                               {
-                              "anime_id":"7",
+                              "anime_id":"07",
                               "anime_name":"Running Emmet",
                               "anime_step":11
                               },
                               {
-                              "anime_id":"8",
+                              "anime_id":"08",
                               "anime_name":"Lord Business",
                               "anime_step":11
                               },
                               {
-                              "anime_id":"9",
+                              "anime_id":"09",
                               "anime_name":"Green Ninja",
                               "anime_step":13
                               },
@@ -228,47 +228,47 @@
                   "is_video":"false",
                   "animes":[
                             {
-                            "anime_id":"1",
+                            "anime_id":"01",
                             "anime_name":"Creeper",
                             "anime_step":10
                             },
                             {
-                            "anime_id":"2",
+                            "anime_id":"02",
                             "anime_name":"Steve",
                             "anime_step":9
                             },
                             {
-                            "anime_id":"3",
+                            "anime_id":"03",
                             "anime_name":"Zombie",
                             "anime_step":9
                             },
                             {
-                            "anime_id":"4",
+                            "anime_id":"04",
                             "anime_name":"Zombie Pigman",
                             "anime_step":11
                             },
                             {
-                            "anime_id":"5",
+                            "anime_id":"05",
                             "anime_name":"Enderman",
                             "anime_step":10
                             },
                             {
-                            "anime_id":"6",
+                            "anime_id":"06",
                             "anime_name":"Ghast",
                             "anime_step":8
                             },
                             {
-                            "anime_id":"7",
+                            "anime_id":"07",
                             "anime_name":"Skeleton",
                             "anime_step":11
                             },
                             {
-                            "anime_id":"8",
+                            "anime_id":"08",
                             "anime_name":"Wither",
                             "anime_step":9
                             },
                             {
-                            "anime_id":"9",
+                            "anime_id":"09",
                             "anime_name":"Spider",
                             "anime_step":16
                             },
@@ -311,47 +311,47 @@
                   "is_video":"false",
                   "animes":[
                             {
-                            "anime_id":"1",
+                            "anime_id":"01",
                             "anime_name":"Han Solo",
                             "anime_step":15
                             },
                             {
-                            "anime_id":"2",
+                            "anime_id":"02",
                             "anime_name":"Luke Skywalker",
                             "anime_step":13
                             },
                             {
-                            "anime_id":"3",
+                            "anime_id":"03",
                             "anime_name":"Princess Leia",
                             "anime_step":15
                             },
                             {
-                            "anime_id":"4",
+                            "anime_id":"04",
                             "anime_name":"Padme Amidala",
                             "anime_step":14
                             },
                             {
-                            "anime_id":"5",
+                            "anime_id":"05",
                             "anime_name":"Yoda",
                             "anime_step":15
                             },
                             {
-                            "anime_id":"6",
+                            "anime_id":"06",
                             "anime_name":"Obi-Wan Kenobi",
                             "anime_step":13
                             },
                             {
-                            "anime_id":"7",
+                            "anime_id":"07",
                             "anime_name":"Anakin Skywalker",
                             "anime_step":13
                             },
                             {
-                            "anime_id":"8",
+                            "anime_id":"08",
                             "anime_name":"Darth Wader",
                             "anime_step":15
                             },
                             {
-                            "anime_id":"9",
+                            "anime_id":"09",
                             "anime_name":"R2-D2",
                             "anime_step":13
                             },
@@ -444,47 +444,47 @@
                   "is_video":"false",
                   "animes":[
                             {
-                            "anime_id":"1",
+                            "anime_id":"01",
                             "anime_name":"Lloyd",
                             "anime_step":14
                             },
                             {
-                            "anime_id":"2",
+                            "anime_id":"02",
                             "anime_name":"Cole",
                             "anime_step":14
                             },
                             {
-                            "anime_id":"3",
+                            "anime_id":"03",
                             "anime_name":"Jay",
                             "anime_step":13
                             },
                             {
-                            "anime_id":"4",
+                            "anime_id":"04",
                             "anime_name":"Kai",
                             "anime_step":12
                             },
                             {
-                            "anime_id":"5",
+                            "anime_id":"05",
                             "anime_name":"P.I.X.A.L.",
                             "anime_step":13
                             },
                             {
-                            "anime_id":"6",
+                            "anime_id":"06",
                             "anime_name":"General Cryptor",
                             "anime_step":16
                             },
                             {
-                            "anime_id":"7",
+                            "anime_id":"07",
                             "anime_name":"Nya",
                             "anime_step":14
                             },
                             {
-                            "anime_id":"8",
+                            "anime_id":"08",
                             "anime_name":"Sensei Garmadon",
                             "anime_step":13
                             },
                             {
-                            "anime_id":"9",
+                            "anime_id":"09",
                             "anime_name":"Cyrus Borg",
                             "anime_step":22
                             },
@@ -552,47 +552,47 @@
                   "is_video":"false",
                   "animes":[
                             {
-                            "anime_id":"1",
+                            "anime_id":"01",
                             "anime_name":"Laval",
                             "anime_step":18
                             },
                             {
-                            "anime_id":"2",
+                            "anime_id":"02",
                             "anime_name":"Crug",
                             "anime_step":15
                             },
                             {
-                            "anime_id":"3",
+                            "anime_id":"03",
                             "anime_name":"Ewar",
                             "anime_step":14
                             },
                             {
-                            "anime_id":"4",
+                            "anime_id":"04",
                             "anime_name":"Gloona",
                             "anime_step":13
                             },
                             {
-                            "anime_id":"5",
+                            "anime_id":"05",
                             "anime_name":"Rawzom",
                             "anime_step":15
                             },
                             {
-                            "anime_id":"6",
+                            "anime_id":"06",
                             "anime_name":"Winzar",
                             "anime_step":14
                             },
                             {
-                            "anime_id":"7",
+                            "anime_id":"07",
                             "anime_name":"Skinnet",
                             "anime_step":13
                             },
                             {
-                            "anime_id":"8",
+                            "anime_id":"08",
                             "anime_name":"Blista",
                             "anime_step":16
                             },
                             {
-                            "anime_id":"9",
+                            "anime_id":"09",
                             "anime_name":"Rinona",
                             "anime_step":13
                             },
@@ -660,47 +660,47 @@
                   "is_video":"false",
                   "animes":[
                             {
-                            "anime_id":"1",
+                            "anime_id":"01",
                             "anime_name":"Gali",
                             "anime_step":16
                             },
                             {
-                            "anime_id":"2",
+                            "anime_id":"02",
                             "anime_name":"Kopaka",
                             "anime_step":16
                             },
                             {
-                            "anime_id":"3",
+                            "anime_id":"03",
                             "anime_name":"Lewa",
                             "anime_step":13
                             },
                             {
-                            "anime_id":"4",
+                            "anime_id":"04",
                             "anime_name":"Lord Of Skullspiders",
                             "anime_step":12
                             },
                             {
-                            "anime_id":"5",
+                            "anime_id":"05",
                             "anime_name":"Mask",
                             "anime_step":8
                             },
                             {
-                            "anime_id":"6",
+                            "anime_id":"06",
                             "anime_name":"Onua",
                             "anime_step":13
                             },
                             {
-                            "anime_id":"7",
+                            "anime_id":"07",
                             "anime_name":"Pohatu",
                             "anime_step":13
                             },
                             {
-                            "anime_id":"8",
+                            "anime_id":"08",
                             "anime_name":"Protector Of Earth",
                             "anime_step":13
                             },
                             {
-                            "anime_id":"9",
+                            "anime_id":"09",
                             "anime_name":"Protector Of Fire",
                             "anime_step":12
                             },
@@ -743,47 +743,47 @@
                   "is_video":"false",
                   "animes":[
                             {
-                            "anime_id":"1",
+                            "anime_id":"01",
                             "anime_name":"Gandalf",
                             "anime_step":12
                             },
                             {
-                            "anime_id":"2",
+                            "anime_id":"02",
                             "anime_name":"Bilbo",
                             "anime_step":11
                             },
                             {
-                            "anime_id":"3",
+                            "anime_id":"03",
                             "anime_name":"Gollum",
                             "anime_step":13
                             },
                             {
-                            "anime_id":"4",
+                            "anime_id":"04",
                             "anime_name":"Goblin King",
                             "anime_step":13
                             },
                             {
-                            "anime_id":"5",
+                            "anime_id":"05",
                             "anime_name":"Tauriel",
                             "anime_step":12
                             },
                             {
-                            "anime_id":"6",
+                            "anime_id":"06",
                             "anime_name":"Thorin",
                             "anime_step":10
                             },
                             {
-                            "anime_id":"7",
+                            "anime_id":"07",
                             "anime_name":"Balin",
                             "anime_step":11
                             },
                             {
-                            "anime_id":"8",
+                            "anime_id":"08",
                             "anime_name":"Legolas",
                             "anime_step":13
                             },
                             {
-                            "anime_id":"9",
+                            "anime_id":"09",
                             "anime_name":"Elrond",
                             "anime_step":13
                             },
@@ -851,12 +851,12 @@
                   "is_video":"false",
                   "animes":[
                             {
-                            "anime_id":"5",
+                            "anime_id":"05",
                             "anime_name":"Emma",
                             "anime_step":13
                             },
                             {
-                            "anime_id":"8",
+                            "anime_id":"08",
                             "anime_name":"Emma Lego",
                             "anime_step":13
                             },
@@ -881,12 +881,12 @@
                             "anime_step":11
                             },
                             {
-                            "anime_id":"1",
+                            "anime_id":"01",
                             "anime_name":"Andrea",
                             "anime_step":13
                             },
                             {
-                            "anime_id":"2",
+                            "anime_id":"02",
                             "anime_name":"Andrea Lego",
                             "anime_step":12
                             },
@@ -901,7 +901,7 @@
                             "anime_step":11
                             },
                             {
-                            "anime_id":"9",
+                            "anime_id":"09",
                             "anime_name":"Andrew",
                             "anime_step":11
                             },
@@ -911,22 +911,22 @@
                             "anime_step":10
                             },
                             {
-                            "anime_id":"3",
+                            "anime_id":"03",
                             "anime_name":"Scarlett",
                             "anime_step":10
                             },
                             {
-                            "anime_id":"4",
+                            "anime_id":"04",
                             "anime_name":"Maxie",
                             "anime_step":8
                             },
                             {
-                            "anime_id":"6",
+                            "anime_id":"06",
                             "anime_name":"Hedgehog",
                             "anime_step":8
                             },
                             {
-                            "anime_id":"7",
+                            "anime_id":"07",
                             "anime_name":"Bella",
                             "anime_step":11
                             },
@@ -959,47 +959,47 @@
                   "is_video":"false",
                   "animes":[
                             {
-                            "anime_id":"1",
+                            "anime_id":"01",
                             "anime_name":"Albus Dumbledore",
                             "anime_step":12
                             },
                             {
-                            "anime_id":"2",
+                            "anime_id":"02",
                             "anime_name":"Bellatrix Lestrange",
                             "anime_step":12
                             },
                             {
-                            "anime_id":"3",
+                            "anime_id":"03",
                             "anime_name":"Dementor",
                             "anime_step":8
                             },
                             {
-                            "anime_id":"4",
+                            "anime_id":"04",
                             "anime_name":"Dobby",
                             "anime_step":13
                             },
                             {
-                            "anime_id":"5",
+                            "anime_id":"05",
                             "anime_name":"Draco Malfoy",
                             "anime_step":11
                             },
                             {
-                            "anime_id":"6",
+                            "anime_id":"06",
                             "anime_name":"Gilderoy Lockhart",
                             "anime_step":13
                             },
                             {
-                            "anime_id":"7",
+                            "anime_id":"07",
                             "anime_name":"Ginevra Weasley",
                             "anime_step":11
                             },
                             {
-                            "anime_id":"8",
+                            "anime_id":"08",
                             "anime_name":"Hagrid",
                             "anime_step":12
                             },
                             {
-                            "anime_id":"9",
+                            "anime_id":"09",
                             "anime_name":"Harry Potter",
                             "anime_step":12
                             },
@@ -1052,47 +1052,47 @@
                   "is_video":"false",
                   "animes":[
                             {
-                            "anime_id":"1",
+                            "anime_id":"01",
                             "anime_name":"Arctic Explorer",
                             "anime_step":12
                             },
                             {
-                            "anime_id":"2",
+                            "anime_id":"02",
                             "anime_name":"Auto Transporter Driver",
                             "anime_step":11
                             },
                             {
-                            "anime_id":"3",
+                            "anime_id":"03",
                             "anime_name":"City Racing Bike",
                             "anime_step":14
                             },
                             {
-                            "anime_id":"4",
+                            "anime_id":"04",
                             "anime_name":"Demolition Foreman",
                             "anime_step":11
                             },
                             {
-                            "anime_id":"5",
+                            "anime_id":"05",
                             "anime_name":"Demolition Machine",
                             "anime_step":14
                             },
                             {
-                            "anime_id":"6",
+                            "anime_id":"06",
                             "anime_name":"Demolition Worker",
                             "anime_step":12
                             },
                             {
-                            "anime_id":"7",
+                            "anime_id":"07",
                             "anime_name":"Emmet",
                             "anime_step":12
                             },
                             {
-                            "anime_id":"8",
+                            "anime_id":"08",
                             "anime_name":"Forest Police Officer",
                             "anime_step":12
                             },
                             {
-                            "anime_id":"9",
+                            "anime_id":"09",
                             "anime_name":"High Speed Police Chase",
                             "anime_step":16
                             },
@@ -1135,47 +1135,47 @@
                   "is_video":"false",
                   "animes":[
                             {
-                            "anime_id":"1",
+                            "anime_id":"01",
                             "anime_name":"Bart Simpson 1",
                             "anime_step":12
                             },
                             {
-                            "anime_id":"2",
+                            "anime_id":"02",
                             "anime_name":"Bart Simpson 2",
                             "anime_step":13
                             },
                             {
-                            "anime_id":"3",
+                            "anime_id":"03",
                             "anime_name":"Homer Simpson",
                             "anime_step":13
                             },
                             {
-                            "anime_id":"4",
+                            "anime_id":"04",
                             "anime_name":"Lisa Simpson",
                             "anime_step":11
                             },
                             {
-                            "anime_id":"5",
+                            "anime_id":"05",
                             "anime_name":"Marge Simpson",
                             "anime_step":12
                             },
                             {
-                            "anime_id":"6",
+                            "anime_id":"06",
                             "anime_name":"Maggie Simpson",
                             "anime_step":9
                             },
                             {
-                            "anime_id":"7",
+                            "anime_id":"07",
                             "anime_name":"State Comptroller Atkins",
                             "anime_step":13
                             },
                             {
-                            "anime_id":"8",
+                            "anime_id":"08",
                             "anime_name":"Clown Krusty",
                             "anime_step":13
                             },
                             {
-                            "anime_id":"9",
+                            "anime_id":"09",
                             "anime_name":"Grandpa",
                             "anime_step":12
                             },
@@ -1243,47 +1243,47 @@
                   "is_video":"false",
                   "animes":[
                             {
-                            "anime_id":"1",
+                            "anime_id":"01",
                             "anime_name":"Owen Grady",
                             "anime_step":11
                             },
                             {
-                            "anime_id":"2",
+                            "anime_id":"02",
                             "anime_name":"Claire Dearing",
                             "anime_step":11
                             },
                             {
-                            "anime_id":"3",
+                            "anime_id":"03",
                             "anime_name":"Zack Mitchell",
                             "anime_step":10
                             },
                             {
-                            "anime_id":"4",
+                            "anime_id":"04",
                             "anime_name":"Gray Mitchell",
                             "anime_step":10
                             },
                             {
-                            "anime_id":"5",
+                            "anime_id":"05",
                             "anime_name":"Indominus Rex",
                             "anime_step":11
                             },
                             {
-                            "anime_id":"6",
+                            "anime_id":"06",
                             "anime_name":"Tyrannosaurus",
                             "anime_step":12
                             },
                             {
-                            "anime_id":"7",
+                            "anime_id":"07",
                             "anime_name":"Velociraptor Delta",
                             "anime_step":12
                             },
                             {
-                            "anime_id":"8",
+                            "anime_id":"08",
                             "anime_name":"Velociraptor Blue",
                             "anime_step":12
                             },
                             {
-                            "anime_id":"9",
+                            "anime_id":"09",
                             "anime_name":"Simon Masrani",
                             "anime_step":10
                             },
@@ -1326,47 +1326,47 @@
                   "is_video":"false",
                   "animes":[
                             {
-                            "anime_id":"1",
+                            "anime_id":"01",
                             "anime_name":"Aira the Wind Elf",
                             "anime_step":13
                             },
                             {
-                            "anime_id":"2",
+                            "anime_id":"02",
                             "anime_name":"Aira",
                             "anime_step":16
                             },
                             {
-                            "anime_id":"3",
+                            "anime_id":"03",
                             "anime_name":"Azari the Fire Elf",
                             "anime_step":12
                             },
                             {
-                            "anime_id":"4",
+                            "anime_id":"04",
                             "anime_name":"Azari",
                             "anime_step":15
                             },
                             {
-                            "anime_id":"5",
+                            "anime_id":"05",
                             "anime_name":"Emily Jones",
                             "anime_step":11
                             },
                             {
-                            "anime_id":"6",
+                            "anime_id":"06",
                             "anime_name":"Emily",
                             "anime_step":14
                             },
                             {
-                            "anime_id":"7",
+                            "anime_id":"07",
                             "anime_name":"Farran the Earth Elf",
                             "anime_step":11
                             },
                             {
-                            "anime_id":"8",
+                            "anime_id":"08",
                             "anime_name":"Farran",
                             "anime_step":15
                             },
                             {
-                            "anime_id":"9",
+                            "anime_id":"09",
                             "anime_name":"Naida the Water Elf",
                             "anime_step":12
                             },
