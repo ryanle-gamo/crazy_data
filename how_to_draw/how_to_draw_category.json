@@ -1,0 +1,75 @@
+{
+	"categories":[
+                  {
+                    "category_id":"1",
+                    "category_name":"For Boys",
+                    "category_thumbnail":"1.png",
+                    "is_video":"false",
+                    "animes":[
+                              {
+                                "anime_id":"1",
+                                "anime_name":"Graffity",
+                                "anime_step":
+                              },
+                              {
+                              "anime_id":"2",
+                              "anime_name":"Transformers",
+                              "anime_step":
+                              },
+                              {
+                              "anime_id":"3",
+                              "anime_name":"Hot Wheels",
+                              "anime_step":
+                              },
+                              {
+                              "anime_id":"4",
+                              "anime_name":"Super Cars",
+                              "anime_step":
+                              },
+                              {
+                              "anime_id":"5",
+                              "anime_name":"Retro Cars",
+                              "anime_step":
+                              },
+                              {
+                              "anime_id":"6",
+                              "anime_name":"Tanks",
+                              "anime_step":
+                              },
+                              {
+                              "anime_id":"7",
+                              "anime_name":"Spaceships",
+                              "anime_step":
+                              },
+                              {
+                              "anime_id":"8",
+                              "anime_name":"Cold Arms",
+                              "anime_step":
+                              },
+                              {
+                              "anime_id":"9",
+                              "anime_name":"",
+                              "anime_step":
+                              },
+                              {
+                              "anime_id":"",
+                              "anime_name":"",
+                              "anime_step":
+                              }
+                              ]
+                  },
+                  {
+                    "category_id":"2",
+                    "category_name":"Bleach",
+                    "category_thumbnail":"2.png",
+                    "is_video":"false",
+                    "animes":[
+                              {
+                              "anime_id":"1",
+                              "anime_name":"Bleach logo",
+                              "anime_step":6
+                              }
+                            ]
+                  }
+                  ]
+}
