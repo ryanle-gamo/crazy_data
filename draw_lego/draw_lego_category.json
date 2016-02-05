@@ -2,7 +2,7 @@
 	"categories":[
                 {
                   "category_id":"5",
-                  "category_name":"Lego Ninjago",
+                  "category_name":"Ninjago",
                   "category_thumbnail":"5.png",
                   "is_video":"false",
                   "animes":[
@@ -110,7 +110,7 @@
                   },
                   {
                   "category_id":"6",
-                  "category_name":"Lego Chima",
+                  "category_name":"Chima",
                   "category_thumbnail":"6.png",
                   "is_video":"false",
                   "animes":[
@@ -218,7 +218,7 @@
                   },
                   {
                   "category_id":"7",
-                  "category_name":"Lego Bionicle",
+                  "category_name":"Bionicle",
                   "category_thumbnail":"7.png",
                   "is_video":"false",
                   "animes":[
@@ -301,7 +301,7 @@
                   },
                   {
                   "category_id":"9",
-                  "category_name":"Lego Friends",
+                  "category_name":"Friends",
                   "category_thumbnail":"9.png",
                   "is_video":"false",
                   "animes":[
@@ -409,7 +409,7 @@
                   },
                   {
                   "category_id":"11",
-                  "category_name":"Lego City",
+                  "category_name":"City",
                   "category_thumbnail":"11.png",
                   "is_video":"false",
                   "animes":[
@@ -492,7 +492,7 @@
                   },
                 {
                   "category_id":"14",
-                  "category_name":"Lego Elves",
+                  "category_name":"Elves",
                   "category_thumbnail":"14.png",
                   "is_video":"false",
                   "animes":[
