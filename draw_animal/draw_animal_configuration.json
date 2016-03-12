@@ -1,9 +1,9 @@
 {
-	"latest_version":"1.0.1",
+	"latest_version":"1.0.0",
 	"version":"PRODUCTION",
-    "category_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_anime_manga/drawanimemanga_category.json",
-    "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_anime_manga/",
-    "admob_banner_id":"ca-app-pub-4322965078780162/9092681939",
-    "admob_interstitial_id":"ca-app-pub-4322965078780162/1569415130",
+    "category_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/draw_animal_category.json",
+    "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/",
+    "admob_banner_id":"ca-app-pub-4322965078780162/7369971532",
+    "admob_interstitial_id":"ca-app-pub-4322965078780162/8846704738",
     "itune_url":"http://itunes.apple.com/app/id1035103322"
 }
