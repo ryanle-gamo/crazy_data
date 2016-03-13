@@ -810,79 +810,684 @@
                   },
                   {
                   "category_id":"7",
-                  "category_name":"",
+                  "category_name":"Farm Animals",
                   "category_thumbnail":"7.png",
                   "is_video":"false",
                   "animes":[
                             {
                             "anime_id":"1",
-                            "anime_name":"",
-                            "anime_step":
+                            "anime_name":"Little Pig",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Funny Cow",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Sheep",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Yellow Chicken",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Small Horse",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Dog",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Cat",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Little Duck",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Chicken",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Happy Rabbit",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Little Bird",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Old Dog",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Camel",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Purple Ostrich",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Baa-Lamb",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Green Frog",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Small Mouse",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Owl",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Angry Bull",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Peafowl",
+                            "anime_step":12
                             }
                             ]
                   },
                   {
                   "category_id":"8",
-                  "category_name":"",
+                  "category_name":"Wild Animals",
                   "category_thumbnail":"8.png",
                   "is_video":"false",
                   "animes":[
                             {
                             "anime_id":"1",
-                            "anime_name":"",
-                            "anime_step":
+                            "anime_name":"Lion",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Lynx",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Tiger",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Wolf",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Fox",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Bear",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Monkey",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Elephant",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Deer",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Buffalo",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Giraffe",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Moose",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Bison",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Hippopotamus",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Rhinoceros",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Crocodile",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Seal",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Turtle",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Dolphin",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Shark",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"21",
+                            "anime_name":"Iguana",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"22",
+                            "anime_name":"Owl",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"23",
+                            "anime_name":"Eagle",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"24",
+                            "anime_name":"Duck",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"25",
+                            "anime_name":"Parrot",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"26",
+                            "anime_name":"Snake",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"27",
+                            "anime_name":"Spider",
+                            "anime_step":7
                             }
                             ]
                   },
                   {
                   "category_id":"9",
-                  "category_name":"",
+                  "category_name":"Horses and Unicorns",
                   "category_thumbnail":"9.png",
                   "is_video":"false",
                   "animes":[
                             {
                             "anime_id":"1",
-                            "anime_name":"",
-                            "anime_step":
+                            "anime_name":"Horse Portrait",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Horse",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Fantasy Unicorn",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Pink Unicorn",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Yellow Unicorn",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Mr. Horse",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Cute Unicorn",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Pretty Unicorn",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Adorable Horse",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Chibi Pegasus",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Graseful Unicorn",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Chibi Unicorn",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Little Horse",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Little Unicorn",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Cute Pegasus",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Rainbow Pony",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Cartoon Horse",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Anime Unicorn",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Little Pony",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Pretty Pony",
+                            "anime_step":9
                             }
                             ]
                   },
                   {
                   "category_id":"10",
-                  "category_name":"",
+                  "category_name":"Birds",
                   "category_thumbnail":"10.png",
                   "is_video":"false",
                   "animes":[
                             {
                             "anime_id":"1",
-                            "anime_name":"",
-                            "anime_step":
+                            "anime_name":"Toucan",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Vulture",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Seagull",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Kakadu",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Flamingo",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Bird Of Paradise",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Cock",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Pheasant",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Pelican",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Parrot",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Colibri",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Skylark",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Sparrow",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Woodpecker",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Owl",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Mandarin Duck",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Kingfisher",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Stork",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Bee-eater",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Robin",
+                            "anime_step":15
                             }
                             ]
                   },
                   {
                   "category_id":"11",
-                  "category_name":"",
+                  "category_name":"Insects",
                   "category_thumbnail":"11.png",
                   "is_video":"false",
                   "animes":[
                             {
                             "anime_id":"1",
-                            "anime_name":"",
-                            "anime_step":
+                            "anime_name":"Ladybug",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Snail",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Butterfly",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Worm",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Ant",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Centipede",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Caterpillar",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Cricket",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Yellow Butterfly",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Bee",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Spider",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Glowworm",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Cheerful Beetle",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Fly",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Rhinoceros Beetle",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Dragonfly",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Mosquito",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Grasshopper",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Wasp",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Maybug",
+                            "anime_step":16
                             }
                             ]
                   },
                   {
                   "category_id":"12",
-                  "category_name":"",
+                  "category_name":"Butterflies",
                   "category_thumbnail":"12.png",
                   "is_video":"false",
                   "animes":[
                             {
                             "anime_id":"1",
-                            "anime_name":"",
-                            "anime_step":
+                            "anime_name":"Adorable Butterfly",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Adored Butterfly",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Amazing Butterfly",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Awesome Butterfly",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Blue Butterfly",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Bright Butterfly",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Butterfly Logo",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Butterfly Tattoo",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Cartoon Butterfly",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Cute Butterfly",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Green Butterfly",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Lilac Buttefly",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Minimalistic Butterfly",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Motley Butterfly",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Multicolor Butterfly",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Pied Butterfly",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Pink Butterfly",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Purple Butterfly",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Tender Butterfly",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Yellow Butterfly",
+                            "anime_step":9
                             }
                             ]
                   }
