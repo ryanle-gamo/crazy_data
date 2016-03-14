@@ -1056,6 +1056,11 @@
                             "anime_id":"27",
                             "anime_name":"Spider",
                             "anime_step":7
+                            },
+                            {
+                            "anime_id":"28",
+                            "anime_name":"Dragon",
+                            "anime_step":9
                             }
                             ]
                   },
