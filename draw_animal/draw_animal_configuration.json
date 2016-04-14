@@ -1,7 +1,7 @@
 {
-	"latest_version":"1.0.0",
+	"latest_version":"1.0.1",
     "is_admob":true,
-	"version":"ALPHA",
+	"version":"PRODUCTION",
     "category_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/draw_animal_category.json",
     "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/",
     "admob_banner_id":"ca-app-pub-4322965078780162/7369971532",
