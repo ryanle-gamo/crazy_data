@@ -4,6 +4,8 @@
                   "category_id":"1",
                   "category_name":"Cute Animals",
                   "category_thumbnail":"1.png",
+                      "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/",
+                    "file_extension": "png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -242,6 +244,8 @@
                   "category_id":"3",
                   "category_name":"Cats Superheroes",
                   "category_thumbnail":"3.png",
+                      "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/",
+                    "file_extension": "png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -325,6 +329,8 @@
                   "category_id":"6",
                   "category_name":"Sea Animals",
                   "category_thumbnail":"6.png",
+                      "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/",
+                    "file_extension": "png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -463,6 +469,8 @@
                   "category_id":"7",
                   "category_name":"Farm Animals",
                   "category_thumbnail":"7.png",
+                      "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/",
+                    "file_extension": "png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -571,6 +579,8 @@
                   "category_id":"8",
                   "category_name":"Wild Animals",
                   "category_thumbnail":"8.png",
+                      "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/",
+                    "file_extension": "png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -719,6 +729,8 @@
                   "category_id":"9",
                   "category_name":"Horses and Unicorns",
                   "category_thumbnail":"9.png",
+                      "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/",
+                    "file_extension": "png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -827,6 +839,8 @@
                   "category_id":"10",
                   "category_name":"Birds",
                   "category_thumbnail":"10.png",
+                      "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/",
+                    "file_extension": "png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -935,6 +949,8 @@
                   "category_id":"11",
                   "category_name":"Insects",
                   "category_thumbnail":"11.png",
+                      "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/",
+                    "file_extension": "png",
                   "is_video":"false",
                   "animes":[
                             {
@@ -1043,6 +1059,8 @@
                   "category_id":"12",
                   "category_name":"Butterflies",
                   "category_thumbnail":"12.png",
+                      "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/",
+                    "file_extension": "png",
                   "is_video":"false",
                   "animes":[
                             {
