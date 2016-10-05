@@ -1,6 +1,6 @@
 {
     "latest_version":"1.0.1",
-    "is_admob_in_grid":true,
+    "is_admob_in_grid":false,
     "is_admob":true,
     "version":"ALPHA",
     "category_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/draw_animal_category.json",
