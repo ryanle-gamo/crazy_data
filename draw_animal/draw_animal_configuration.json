@@ -1,5 +1,7 @@
 {
     "latest_version":"1.0.1",
+    "home_ads_enable":true,
+    "home_ads_admob":true,
     "grid_ads_enable":true,
     "grid_ads_admob":true,
     "details_ads_animation_enable":true,
