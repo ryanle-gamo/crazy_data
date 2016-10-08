@@ -6,6 +6,8 @@
     "home_ads_admob":true,
     "grid_ads_admob":true,
     "details_ads_admob":true,
+    "is_admob_in_grid":true,
+    "is_admob":true,
     "version":"ALPHA",
     "category_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/draw_animal_category.json",
     "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/draw_animal_category_alpha.json",
