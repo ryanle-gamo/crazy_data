@@ -11,6 +11,7 @@
     "version":"ALPHA",
     "category_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/draw_animal_category.json",
     "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/draw_animal_category_alpha.json",
+    "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/",
     "admob_banner_id":"ca-app-pub-4322965078780162/7369971532",
     "admob_interstitial_id":"ca-app-pub-4322965078780162/8846704738",
     "itune_url":"http://itunes.apple.com/app/id1092920217"
