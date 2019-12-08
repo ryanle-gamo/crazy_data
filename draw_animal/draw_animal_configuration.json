@@ -1,6 +1,6 @@
 {
     "latest_version":"1.1.0",
-    "isShowAfterSeconds":true,
+    "isShowAfterSeconds":false,
     "is_admob":true,
     "version":"ALPHA",
     "category_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/draw_animal_category.json",
