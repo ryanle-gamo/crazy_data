@@ -2,7 +2,7 @@
     "latest_version":"1.1.0",
     "isShowAfterSeconds":true,
     "is_admob":true,
-    "version":"PRODUCTION",
+    "version":"ALPHA",
     "category_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/draw_animal_category.json",
     "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/draw_animal_category_alpha.json",
     "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_animal/",
