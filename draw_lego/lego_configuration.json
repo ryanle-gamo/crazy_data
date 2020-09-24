@@ -1,0 +1,8 @@
+{
+	"latest_version":"1.1.0",
+    "is_testing":false,
+	"is_show_ad_after_seconds":false,
+    "category_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_lego/draw_lego_category.json",
+    "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_lego/draw_lego_category_alpha.json",
+    "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_lego/"
+}
