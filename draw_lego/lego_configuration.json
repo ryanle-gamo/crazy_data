@@ -6,6 +6,6 @@
     "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_lego/draw_lego_category_alpha.json",
     "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data/master/draw_lego/",
 	"appstore_url": "https://apps.apple.com/us/app/id1080216539",
-	"is_idfa_enabled":false,
+	"is_idfa_enabled":true,
 	"stopStepIndexAt":3
 }
